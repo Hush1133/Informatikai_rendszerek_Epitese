@@ -1,1 +1,3 @@
-# Informatikai_rendszerek_Epitese
+Kádár Konrád
+IWWD97
+Féléves beadandó feladat
